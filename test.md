@@ -1,8 +1,8 @@
 
-- t
+- test bullet 1
 ![Tiger](https://upload.wikimedia.org/wikipedia/commons/8/81/2012_Suedchinesischer_Tiger.JPG)
 
-- t
+- test bullet 2
 ![Tiger](https://upload.wikimedia.org/wikipedia/commons/8/81/2012_Suedchinesischer_Tiger.JPG)
 
 Lorem Ipsum...
